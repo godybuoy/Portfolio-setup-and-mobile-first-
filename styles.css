@@ -34,7 +34,7 @@ section {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 48px 12px 6px;
+  padding: 58px 24px 14px;
   background: white;
   position: sticky;
   height: 92px;
