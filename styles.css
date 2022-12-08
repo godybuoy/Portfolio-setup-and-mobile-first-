@@ -12,6 +12,7 @@ a {
 
 li {
   list-style-type: none;
+  display: flex;
 }
 
 body {
