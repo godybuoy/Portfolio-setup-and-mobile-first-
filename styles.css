@@ -30,7 +30,7 @@ section {
   width: 375px;
 }
 
-.navigation_bar {
+.navigation {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -42,13 +42,13 @@ section {
   z-index: 1;
 }
 
-.navigation_bar .nav {
+.navigation .nav {
   display: flex;
   flex-direction: column;
   gap: 5px;
 }
 
-.navigation_bar img {
+.navigation img {
   width: 16px;
   background: blue;
   padding: 2px;
