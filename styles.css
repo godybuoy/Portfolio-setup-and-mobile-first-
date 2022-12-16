@@ -357,7 +357,7 @@ hr {
   height: 48px;
   top: 376px;
   left: 24px;
-  border-radius: 8px;
+  border-radius: 5px;
   border-width: 0;
 }
 
@@ -368,7 +368,7 @@ hr {
   height: 48px;
   top: 443px;
   left: 24px;
-  border-radius: 8px;
+  border-radius: 5px;
   border-width: 0;
 }
 
@@ -379,7 +379,7 @@ hr {
   height: 137px;
   top: 510px;
   left: 24px;
-  border-radius: 8px;
+  border-radius: 5px;
   border-width: 0;
 }
 
@@ -389,10 +389,8 @@ hr {
   height: 48px;
   left: 24px;
   top: 670px;
-
-  /* Neutrals/N0 */
-
   background: #fff;
   border-radius: 8px;
   border-width: 0;
+  color: #6070FF;
 }
