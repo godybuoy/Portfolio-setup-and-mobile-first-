@@ -316,6 +316,7 @@ hr {
   top: 4479px;
   background: #6070ff;
   border-radius: 75px 0 0 1px;
+  overflow: hidden;
 }
 
 .contact_footer p {
@@ -381,6 +382,7 @@ hr {
   left: 24px;
   border-radius: 5px;
   border-width: 0;
+  padding-top: 5px;
 }
 
 .contact_footer .form-start .start {
